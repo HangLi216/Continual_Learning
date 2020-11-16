@@ -86,7 +86,7 @@
 |:-------|:--------:|:-------:|
 | [Encoder Based Lifelong Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rannen_Encoder_Based_Lifelong_ICCV_2017_paper.pdf) | ICCV | [Pytorch(Author)](https://github.com/rahafaljundi/Pytorch-implementation-of-Encoder-Based-Lifelong-learning) |
 
-### Other
+## Other
 
 # License
 
