@@ -1,5 +1,7 @@
 # Awesome Continual/Lifelong/Incremental Learning paper
 
+Please feel free to pull requests or open an issue to add papers. 
+
 ## Quick links:
 - [Surevey](#Surevey)
 - [Replay Methods](#Replay-Methods)
