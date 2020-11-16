@@ -1,11 +1,11 @@
 # Awesome Continual/Lifelong/Incremental Learning paper
 
 ## Quick links:
-- [Surevey](##Surevey)
-- [Replay Methods](##Replay_Methods)
-- [Regularization-based Methods](##Regularization-base_Methods)
-- [Dynamic architecture methods](##Dynamic architecture methods)
-- [Others](##Others)
+- [Surevey](#Surevey)
+- [Replay Methods](#Replay-Methods)
+- [Regularization-based Methods](#Regularization-Methods)
+- [Dynamic architecture methods](#Dynamic-architecture-Methods)
+- [Others](#Others)
 
 ## Surevey
 ### 2019
@@ -13,7 +13,7 @@
 - [Continual learning: A comparative study on how to defy forgetting in classification tasks.](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
 - [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/pdf/1802.07569.pdf)
 
-## Replay_Methods
+## Replay Methods
 ### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -42,7 +42,7 @@
 | [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/pdf/1611.07725.pdf) | CVPR | [Theano(Author)](https://github.com/srebuffi/iCaRL)  |
 
 
-## Regularization-based Methods
+## Regularization Methods
 ### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -67,7 +67,7 @@
 | [Continual learning through synaptic intelligence](https://arxiv.org/pdf/1703.04200.pdf) | ICML | [TensorFlow](https://github.com/ganguli-lab/pathint) |
 
 
-## Dynamic architecture methods
+## Dynamic architecture Methods
 
 ### 2019 
 | Title    | Venue       | Code     |
@@ -86,7 +86,7 @@
 |:-------|:--------:|:-------:|
 | [Encoder Based Lifelong Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rannen_Encoder_Based_Lifelong_ICCV_2017_paper.pdf) | ICCV | [Pytorch(Author)](https://github.com/rahafaljundi/Pytorch-implementation-of-Encoder-Based-Lifelong-learning) |
 
-## Other
+## Others
 
 # License
 
