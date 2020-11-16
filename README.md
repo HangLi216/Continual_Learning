@@ -3,7 +3,7 @@
 ## Quick links:
 - [Surevey](##Surevey)
 - [Replay Methods](##Replay_Methods)
-- [Regularization-based Methods](##Regularization-based Methods)
+- [Regularization-based Methods](##Regularization-base_Methods)
 - [Dynamic architecture methods](##Dynamic architecture methods)
 - [Others](##Others)
 
