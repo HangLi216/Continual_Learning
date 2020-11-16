@@ -2,7 +2,7 @@
 
 ## Quick links:
 - [Surevey](##Surevey)
-- [Replay Methods](##Replay Methods)
+- [Replay Methods](##Replay_Methods)
 - [Regularization-based Methods](##Regularization-based Methods)
 - [Dynamic architecture methods](##Dynamic architecture methods)
 - [Others](##Others)
@@ -13,7 +13,7 @@
 - [Continual learning: A comparative study on how to defy forgetting in classification tasks.](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
 - [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/pdf/1802.07569.pdf)
 
-## Replay Methods
+## Replay_Methods
 ### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
