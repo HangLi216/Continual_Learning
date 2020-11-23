@@ -20,7 +20,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Orthogonal Gradient Descent for Continual Learning](http://arxiv.org/abs/1910.07104)  | AISTATS    | - |
-
+| [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later
 
 #### 2019
 | Title    | Venue       | Code     |
