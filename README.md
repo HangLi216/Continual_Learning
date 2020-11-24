@@ -22,8 +22,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [Online Continual Learning from Imbalanced Data](https://proceedings.icml.cc/static/paper_files/icml/2020/4727-Paper.pdf) | ICML | - |
 | [Orthogonal Gradient Descent for Continual Learning](http://arxiv.org/abs/1910.07104)  | AISTATS    | - |
 | [Meta-Consolidation for Continual Learning](https://papers.nips.cc/paper/2020/file/a5585a4d4b12277fee5cad0880611bc6-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/JosephKJ/merlin) |
+| [Coresets via Bilevel Optimization for Continual Learning and Streaming](http://arxiv.org/abs/2006.03875) | NeurIPS | [Pyotch(Author)](https://github.com/zalanborsos/bilevel_coresets/tree/b628fdde1db83151bf560b31c8c4d23279552678) |
 | [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later |
-
 
 
 #### 2019
@@ -34,6 +34,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [Online Continual Learning with Maximally Interfered Retrieval](https://papers.nips.cc/paper/2019/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/optimass/Maximally_Interfered_Retrieval)  |
 | [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf) |  NeurIPS | [Pyotch(Author)](https://github.com/rahafaljundi/Gradient-based-Sample-Selection) |
 | [Learning to learn without forgetting by maximizing transfer and minimizing interference](https://arxiv.org/pdf/1810.11910.pdf) | ICLR | [Pyotch(Author)](https://github.com/mattriemer/mer)  | 
+| [IL2M: Class incremental learning with dual memory](https://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf) | ICCV |  [Pyotch(Author)](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/il2m) |
+
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -78,11 +80,19 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Dynamic architecture Methods
 
+#### 2020 
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [Conditional Channel Gated Networks for Task-Aware Continual Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abati_Conditional_Channel_Gated_Networks_for_Task-Aware_Continual_Learning_CVPR_2020_paper.pdf) | CVPR | - |
+
+
 #### 2019 
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Learning to remember: A synaptic plasticity driven framework for continual learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/SAP-samples/machine-learning-dgm) | 
 | [Compacting, Picking and Growing for Unforgetting Continual Learning](https://arxiv.org/pdf/1910.06562.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/ivclab/CPG) | 
+| [Random Path Selection for Incremental Learning](https://papers.nips.cc/paper/2019/file/83da7c539e1ab4e759623c38d8737e9e-Paper.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/brjathu/RPSnet) |
+
 
 #### 2018
 | Title    | Venue       | Code     |
