@@ -1,4 +1,4 @@
-# Awesome Continual/Lifelong/Incremental Learning paper
+# Continual/Lifelong/Incremental Learning
 
 Please feel free to pull requests or open an issue to add papers. 
 
@@ -19,16 +19,21 @@ Please feel free to pull requests or open an issue to add papers.
 #### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
+| [Online Continual Learning from Imbalanced Data](https://proceedings.icml.cc/static/paper_files/icml/2020/4727-Paper.pdf) | ICML | - |
 | [Orthogonal Gradient Descent for Continual Learning](http://arxiv.org/abs/1910.07104)  | AISTATS    | - |
-| [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later
+| [Meta-Consolidation for Continual Learning](https://papers.nips.cc/paper/2020/file/a5585a4d4b12277fee5cad0880611bc6-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/JosephKJ/merlin) |
+| [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later |
+
+
 
 #### 2019
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Episodic Memory in Lifelong Language Learning](https://papers.nips.cc/paper/9471-episodic-memory-in-lifelong-language-learning.pdf) | NeurIPS | - | 
 | [Experience Replay for Continual Learning](https://arxiv.org/pdf/1811.11682.pdf) | NeurIPS | - | 
- [Learning to learn without forgetting by maximizing transfer and minimizing interference](https://arxiv.org/pdf/1810.11910.pdf) | ICLR | [Pyotch(Author)](https://github.com/mattriemer/mer)  | 
- 
+| [Online Continual Learning with Maximally Interfered Retrieval](https://papers.nips.cc/paper/2019/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/optimass/Maximally_Interfered_Retrieval)  |
+| [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf) |  NeurIPS | [Pyotch(Author)](https://github.com/rahafaljundi/Gradient-based-Sample-Selection) |
+| [Learning to learn without forgetting by maximizing transfer and minimizing interference](https://arxiv.org/pdf/1810.11910.pdf) | ICLR | [Pyotch(Author)](https://github.com/mattriemer/mer)  | 
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -55,6 +60,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 | [Uncertainty-based continual learning with adaptive regularization](http://arxiv.org/abs/1905.11614) | NeurIPS | [Pytorch(Author)](https://github.com/csm9493/UCL) |
 | [Task-Free Continual Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aljundi_Task-Free_Continual_Learning_CVPR_2019_paper.pdf) | CVPR | - |
+| [Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation](https://arxiv.org/pdf/1908.02984.pdf) | ICCV | [Tensorflow](https://github.com/dmpark04/alasso) |
+
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -74,8 +81,8 @@ Please feel free to pull requests or open an issue to add papers.
 #### 2019 
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
-[Learning to remember: A synaptic plasticity driven framework for continual learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/SAP-samples/machine-learning-dgm) | 
-
+| [Learning to remember: A synaptic plasticity driven framework for continual learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/SAP-samples/machine-learning-dgm) | 
+| [Compacting, Picking and Growing for Unforgetting Continual Learning](https://arxiv.org/pdf/1910.06562.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/ivclab/CPG) | 
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -89,6 +96,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [Encoder Based Lifelong Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rannen_Encoder_Based_Lifelong_ICCV_2017_paper.pdf) | ICCV | [Pytorch(Author)](https://github.com/rahafaljundi/Pytorch-implementation-of-Encoder-Based-Lifelong-learning) |
 
 ## Others
+#### 2020
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+|[Understanding the Role of Training Regimes in Continual Learning](https://papers.nips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/imirzadeh/stable-continual-learning) |
 
 # License
 
