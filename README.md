@@ -23,8 +23,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [Orthogonal Gradient Descent for Continual Learning](http://arxiv.org/abs/1910.07104)  | AISTATS    | - |
 | [Meta-Consolidation for Continual Learning](https://papers.nips.cc/paper/2020/file/a5585a4d4b12277fee5cad0880611bc6-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/JosephKJ/merlin) |
 | [Coresets via Bilevel Optimization for Continual Learning and Streaming](http://arxiv.org/abs/2006.03875) | NeurIPS | [Pyotch(Author)](https://github.com/zalanborsos/bilevel_coresets/tree/b628fdde1db83151bf560b31c8c4d23279552678) |
+| [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://papers.nips.cc/paper/2020/file/b704ea2c39778f07c617f6b7ce480e9e-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/aimagelab/mammoth) |
+| [La-MAML: Look-ahead Meta Learning for Continual Learning](https://arxiv.org/pdf/2007.13904.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/montrealrobotics/La-MAML) |
 | [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later |
-
+| [iTAML : An Incremental Task-Agnostic Meta-learning Approach](https://arxiv.org/pdf/2003.11652.pdf) | CVPR | [Pyotch(Author)](https://github.com/brjathu/iTAML)
 
 #### 2019
 | Title    | Venue       | Code     |
@@ -33,6 +35,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Experience Replay for Continual Learning](https://arxiv.org/pdf/1811.11682.pdf) | NeurIPS | - | 
 | [Online Continual Learning with Maximally Interfered Retrieval](https://papers.nips.cc/paper/2019/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/optimass/Maximally_Interfered_Retrieval)  |
 | [Gradient based sample selection for online continual learning](https://papers.nips.cc/paper/2019/file/e562cd9c0768d5464b64cf61da7fc6bb-Paper.pdf) |  NeurIPS | [Pyotch(Author)](https://github.com/rahafaljundi/Gradient-based-Sample-Selection) |
+| [Meta-Learning Representations for Continual Learning](https://papers.nips.cc/paper/2019/file/f4dd765c12f2ef67f98f3558c282a9cd-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/khurramjaved96/mrcl) |
 | [Learning to learn without forgetting by maximizing transfer and minimizing interference](https://arxiv.org/pdf/1810.11910.pdf) | ICLR | [Pyotch(Author)](https://github.com/mattriemer/mer)  | 
 | [IL2M: Class incremental learning with dual memory](https://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf) | ICCV |  [Pyotch(Author)](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/il2m) |
 
@@ -47,7 +50,6 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 | [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840) | NeurIPS | [Pytorch(Author)](https://github.com/facebookresearch/GradientEpisodicMemory) |
 | [Continual Learning with Deep Generative Replay](https://arxiv.org/pdf/1705.08690.pdf) | NeurIPS | [Pytorch](https://github.com/kuc2477/pytorch-deep-generative-replay)  |
-| [Learning without Forgetting](https://arxiv.org/pdf/1606.09282.pdf)    | ECCV | [Matlab(Author)](https://github.com/lizhitwo/LearningWithoutForgetting)  |
 | [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/pdf/1611.07725.pdf) | CVPR | [Theano(Author)](https://github.com/srebuffi/iCaRL)  |
 
 
@@ -56,6 +58,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Sliced Cramércram´Cramér Synaptic Consolidation for Preserving Deeply Learned Representations](https://openreview.net/pdf?id=BJge3TNKwH) | ICLR | - |
+| [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://papers.nips.cc/paper/2020/file/258be18e31c8188555c2ff05b4d542c3-Paper.pdf) | NeurIPS | - |
+
 
 #### 2019
 | Title    | Venue       | Code     |
@@ -63,6 +67,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Uncertainty-based continual learning with adaptive regularization](http://arxiv.org/abs/1905.11614) | NeurIPS | [Pytorch(Author)](https://github.com/csm9493/UCL) |
 | [Task-Free Continual Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aljundi_Task-Free_Continual_Learning_CVPR_2019_paper.pdf) | CVPR | - |
 | [Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation](https://arxiv.org/pdf/1908.02984.pdf) | ICCV | [Tensorflow](https://github.com/dmpark04/alasso) |
+| [Learning without Memorizing](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dhar_Learning_Without_Memorizing_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/stony-hub/learning_without_memorizing) |
 
 
 #### 2018
@@ -74,6 +79,7 @@ Please feel free to pull requests or open an issue to add papers.
 #### 2017 and Before
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
+| [Learning without Forgetting](https://arxiv.org/pdf/1606.09282.pdf)    | ECCV | [Matlab(Author)](https://github.com/lizhitwo/LearningWithoutForgetting)  |
 | [Overcoming catastrophic forgetting in neural network](https://arxiv.org/pdf/1612.00796.pdf) | PNAS | [TensorFlow](https://github.com/ariseff/overcoming-catastrophic) |
 | [Continual learning through synaptic intelligence](https://arxiv.org/pdf/1703.04200.pdf) | ICML | [TensorFlow](https://github.com/ganguli-lab/pathint) |
 
@@ -90,6 +96,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Learning to remember: A synaptic plasticity driven framework for continual learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ostapenko_Learning_to_Remember_A_Synaptic_Plasticity_Driven_Framework_for_Continual_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/SAP-samples/machine-learning-dgm) | 
+| [Large Scale Incremental Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Large_Scale_Incremental_Learning_CVPR_2019_paper.pdf) | CVPR | [Tensorflow(Author)](https://github.com/wuyuebupt/LargeScaleIncrementalLearning) |
 | [Compacting, Picking and Growing for Unforgetting Continual Learning](https://arxiv.org/pdf/1910.06562.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/ivclab/CPG) | 
 | [Random Path Selection for Incremental Learning](https://papers.nips.cc/paper/2019/file/83da7c539e1ab4e759623c38d8737e9e-Paper.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/brjathu/RPSnet) |
 
