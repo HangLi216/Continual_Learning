@@ -9,11 +9,10 @@ Please feel free to pull requests or open an issue to add papers.
 - [Dynamic architecture methods](#Dynamic-architecture-Methods)
 - [Others](#Others)
 
-## Surevey
-#### 2019
-
+## Surevey 
 - [Continual learning: A comparative study on how to defy forgetting in classification tasks.](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
 - [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/pdf/1802.07569.pdf)
+- [Continual Lifelong Learning in Natural Language Processing: A Survey](https://www.aclweb.org/anthology/2020.coling-main.574.pdf)
 
 ## Replay Methods
 #### 2020
@@ -38,7 +37,9 @@ Please feel free to pull requests or open an issue to add papers.
 | [Meta-Learning Representations for Continual Learning](https://papers.nips.cc/paper/2019/file/f4dd765c12f2ef67f98f3558c282a9cd-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/khurramjaved96/mrcl) |
 | [Learning to learn without forgetting by maximizing transfer and minimizing interference](https://arxiv.org/pdf/1810.11910.pdf) | ICLR | [Pyotch(Author)](https://github.com/mattriemer/mer)  | 
 | [IL2M: Class incremental learning with dual memory](https://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf) | ICCV |  [Pyotch(Author)](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/il2m) |
-
+| [Overcoming catastrophic forgetting for continual learning via model adaptation](https://openreview.net/pdf?id=ryGvcoA5YX) | ICLR | [Tensorflow(Author)](https://github.com/morning-dews/PGMA_tensorflow) |
+| [Learning a unified classifier incrementally via rebalancing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/hshustc/CVPR19_Incremental_Learning) |
+ 
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -54,6 +55,12 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Regularization Methods
+#### 2021
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [Linear Mode Connectivity in Multitask and Continual Learning](https://openreview.net/pdf?id=Fmg_fQYUejf) | ICLR(Under review) | [Author-check later](https://github.com/imirzadeh/MC-SGD)  | 
+
+
 #### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -75,6 +82,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 | [Memory Aware Synapses: Learning What (not) to Forget](https://arxiv.org/pdf/1711.09601.pdf) | ECCV | [Pytorch](https://github.com/wannabeOG/MAS-PyTorch) |
 | [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/pdf/1805.06370.pdf) | ICML | - |
+| [Online structured laplace approximations for overcoming catastrophic forgetting](https://papers.nips.cc/paper/7631-online-structured-laplace-approximations-for-overcoming-catastrophic-forgetting.pdf) |  NeurIPS | [Pytorch(Author)](https://github.com/hannakb/KFA) | 
+
 
 #### 2017 and Before
 | Title    | Venue       | Code     |
@@ -106,6 +115,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 | [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf) | CVPR | [Pytorch(Author)](https://github.com/arunmallya/packnet) |
 | [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf) |  ICML |   [Pytorch(Author)](https://github.com/joansj/hat)  |
+| [Lifelong Learning with Dynamically Expandable Networks](https://openreview.net/pdf?id=Sk7KsfW0-) | ICLR | [Tensorflow(Author)](https://github.com/jaehong-yoon93/DEN) |
+
 
 #### 2017 and Before
 | Title    | Venue       | Code     |
@@ -117,6 +128,12 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 |[Understanding the Role of Training Regimes in Continual Learning](https://papers.nips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/imirzadeh/stable-continual-learning) |
+| [Optimal Continual Learning has Perfect Memory and is NP-hard](https://arxiv.org/pdf/2006.05188.pdf) | ICML | - | 
+
+
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [Reconciling meta-learning and continual learning with online mixtures of tasks](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) | NeurIPS | - | 
 
 # License
 
