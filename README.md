@@ -10,9 +10,10 @@ Please feel free to pull requests or open an issue to add papers.
 - [Others](#Others)
 
 ## Surevey 
-- [Continual learning: A comparative study on how to defy forgetting in classification tasks.](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
-- [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/pdf/1802.07569.pdf)
-- [Continual Lifelong Learning in Natural Language Processing: A Survey](https://www.aclweb.org/anthology/2020.coling-main.574.pdf)
+- [Continual learning: A comparative study on how to defy forgetting in classification tasks. (2020)](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
+- [Continual Lifelong Learning with Neural Networks: A Review. (2019)](https://arxiv.org/pdf/1802.07569.pdf)
+- [Continual Lifelong Learning in Natural Language Processing: A Survey. (2020)](https://www.aclweb.org/anthology/2020.coling-main.574.pdf)
+- [Embracing Change: Continual Learning in Deep Neural Networks. (2020)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30219-9) 
 
 ## Replay Methods
 #### 2020
@@ -25,7 +26,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [Dark Experience for General Continual Learning: a Strong, Simple Baseline](https://papers.nips.cc/paper/2020/file/b704ea2c39778f07c617f6b7ce480e9e-Paper.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/aimagelab/mammoth) |
 | [La-MAML: Look-ahead Meta Learning for Continual Learning](https://arxiv.org/pdf/2007.13904.pdf) | NeurIPS | [Pyotch(Author)](https://github.com/montrealrobotics/La-MAML) |
 | [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later |
-| [iTAML : An Incremental Task-Agnostic Meta-learning Approach](https://arxiv.org/pdf/2003.11652.pdf) | CVPR | [Pyotch(Author)](https://github.com/brjathu/iTAML)
+| [iTAML : An Incremental Task-Agnostic Meta-learning Approach](https://arxiv.org/pdf/2003.11652.pdf) | CVPR | [Pyotch(Author)](https://github.com/brjathu/iTAML) | 
+| [Bilevel Continual Learning](https://arxiv.org/pdf/2007.15553.pdf) | - | [Pyotch(Author)](https://github.com/phquang/Bilevel-Continual-Learning) | 
+
+
 
 #### 2019
 | Title    | Venue       | Code     |
@@ -39,7 +43,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [IL2M: Class incremental learning with dual memory](https://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf) | ICCV |  [Pyotch(Author)](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/il2m) |
 | [Overcoming catastrophic forgetting for continual learning via model adaptation](https://openreview.net/pdf?id=ryGvcoA5YX) | ICLR | [Tensorflow(Author)](https://github.com/morning-dews/PGMA_tensorflow) |
 | [Learning a unified classifier incrementally via rebalancing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/hshustc/CVPR19_Incremental_Learning) |
- 
+ | [Task Agnostic Continual Learning via Meta Learning](https://openreview.net/attachment?id=AeIzVxdJgeb&name=pdf)| ICML-w | - |
 
 #### 2018
 | Title    | Venue       | Code     |
@@ -75,6 +79,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Task-Free Continual Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Aljundi_Task-Free_Continual_Learning_CVPR_2019_paper.pdf) | CVPR | - |
 | [Continual Learning by Asymmetric Loss Approximation with Single-Side Overestimation](https://arxiv.org/pdf/1908.02984.pdf) | ICCV | [Tensorflow](https://github.com/dmpark04/alasso) |
 | [Learning without Memorizing](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dhar_Learning_Without_Memorizing_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/stony-hub/learning_without_memorizing) |
+| [Selfless Sequential Learning](https://arxiv.org/pdf/1806.05421.pdf) | ICLR |  [Pytorch(Author)](https://github.com/rahafaljundi/Selfless-Sequential-Learning)|
 
 
 #### 2018
@@ -94,6 +99,11 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Dynamic architecture Methods
+#### 2021 
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [Efficient Continual Learning with Modular Networks and Task-Driven Priors](https://arxiv.org/pdf/2012.12631.pdf) | ICLR | [Pytorch(Author)](https://github.com/TomVeniat/MNTDP)|
+
 
 #### 2020 
 | Title    | Venue       | Code     |
@@ -116,8 +126,8 @@ Please feel free to pull requests or open an issue to add papers.
 | [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769.pdf) | CVPR | [Pytorch(Author)](https://github.com/arunmallya/packnet) |
 | [Overcoming Catastrophic Forgetting with Hard Attention to the Task](https://arxiv.org/pdf/1801.01423.pdf) |  ICML |   [Pytorch(Author)](https://github.com/joansj/hat)  |
 | [Lifelong Learning with Dynamically Expandable Networks](https://openreview.net/pdf?id=Sk7KsfW0-) | ICLR | [Tensorflow(Author)](https://github.com/jaehong-yoon93/DEN) |
-
-
+|[Alleviating catastrophic forgetting using context-dependent gating and synaptic stabilization](https://www.pnas.org/content/115/44/E10467)  | PNAS | [Tensorflow(Author)](https://github.com/nmasse/Context-Dependent-Gating) |
+| [FearNet: Brain-Inspired Model for Incremental Learning](https://arxiv.org/pdf/1711.10563.pdf) | ICLR | - |
 #### 2017 and Before
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -129,12 +139,19 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 |[Understanding the Role of Training Regimes in Continual Learning](https://papers.nips.cc/paper/2020/file/518a38cc9a0173d0b2dc088166981cf8-Paper.pdf) | NeurIPS | [Pytorch(Author)](https://github.com/imirzadeh/stable-continual-learning) |
 | [Optimal Continual Learning has Perfect Memory and is NP-hard](https://arxiv.org/pdf/2006.05188.pdf) | ICML | - | 
+| [Continual Learning from the Perspective of Compression](https://arxiv.org/pdf/2006.15078.pdf) | ICML-w |  - | 
+| [Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning](https://arxiv.org/pdf/2003.05856.pdf) | NIPS | [Pytorch(Author)](https://github.com/ElementAI/osaka) |
 
-
+#### 2019
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Reconciling meta-learning and continual learning with online mixtures of tasks](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) | NeurIPS | - | 
-
+| [A comprehensive, application-oriented study of catastrophic forgetting in DNNs](https://arxiv.org/pdf/1905.08101.pdf) | ICLR| [Tensorflow(Author)](https://gitlab.informatik.hs-fulda.de/ML-Projects/CF_in_DNNs) |
+| [Incremental Object Learning from Contiguous Views](https://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf) | CVPR | [Author](https://iolfcv.github.io)|
+#### 2017 and Before
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [An Empirical Investigation of Catastrophic Forgetting in Gradient-Based Neural Networks](https://arxiv.org/pdf/1312.6211.pdf) | - | [Theano(Author)](https://github.com/goodfeli/forgetting) |
 # License
 
 ----
