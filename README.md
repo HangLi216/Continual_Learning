@@ -43,8 +43,10 @@ Please feel free to pull requests or open an issue to add papers.
 | [IL2M: Class incremental learning with dual memory](https://openaccess.thecvf.com/content_ICCV_2019/papers/Belouadah_IL2M_Class_Incremental_Learning_With_Dual_Memory_ICCV_2019_paper.pdf) | ICCV |  [Pyotch(Author)](https://github.com/EdenBelouadah/class-incremental-learning/tree/master/il2m) |
 | [Overcoming catastrophic forgetting for continual learning via model adaptation](https://openreview.net/pdf?id=ryGvcoA5YX) | ICLR | [Tensorflow(Author)](https://github.com/morning-dews/PGMA_tensorflow) |
 | [Learning a unified classifier incrementally via rebalancing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hou_Learning_a_Unified_Classifier_Incrementally_via_Rebalancing_CVPR_2019_paper.pdf) | CVPR | [Pytorch](https://github.com/hshustc/CVPR19_Incremental_Learning) |
- | [Task Agnostic Continual Learning via Meta Learning](https://openreview.net/attachment?id=AeIzVxdJgeb&name=pdf)| ICML-w | - |
-
+| [Task Agnostic Continual Learning via Meta Learning](https://openreview.net/attachment?id=AeIzVxdJgeb&name=pdf)| ICML-w | - |
+| [On Tiny Episodic Memories in Continual Learning](https://arxiv.org/pdf/1902.10486.pdf) | ICML-w | [Tensorflow(Author)](https://github.com/facebookresearch/agem) |
+| [Efficient Lifelong Learning with A-GEM](https://arxiv.org/pdf/1812.00420.pdf) | ICLR | [Tensorflow(Author)](https://github.com/facebookresearch/agem) |
+| [Incremental Learning Using Conditional Adversarial Networks](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiang_Incremental_Learning_Using_Conditional_Adversarial_Networks_ICCV_2019_paper.pdf) | ICCV| - |
 #### 2018
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -70,7 +72,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------|:--------:|:-------:|
 | [Sliced Cramércram´Cramér Synaptic Consolidation for Preserving Deeply Learned Representations](https://openreview.net/pdf?id=BJge3TNKwH) | ICLR | - |
 | [Continual Learning with Node-Importance based Adaptive Group Sparse Regularization](https://papers.nips.cc/paper/2020/file/258be18e31c8188555c2ff05b4d542c3-Paper.pdf) | NeurIPS | - |
-
+| [Continual Learning with Adaptive Weights (CLAW)](https://openreview.net/pdf?id=Hklso24Kwr) | ICLR | - |
 
 #### 2019
 | Title    | Venue       | Code     |
