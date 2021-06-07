@@ -10,12 +10,19 @@ Please feel free to pull requests or open an issue to add papers.
 - [Others](#Others)
 
 ## Surevey 
+- [Class-incremental learning: survey and performance evaluation on image classification. (2021)](https://arxiv.org/abs/2010.15277) 
 - [Continual learning: A comparative study on how to defy forgetting in classification tasks. (2020)](https://arxiv.org/pdf/1909.08383.pdf) **(Recommend read)**
 - [Continual Lifelong Learning with Neural Networks: A Review. (2019)](https://arxiv.org/pdf/1802.07569.pdf)
 - [Continual Lifelong Learning in Natural Language Processing: A Survey. (2020)](https://www.aclweb.org/anthology/2020.coling-main.574.pdf)
 - [Embracing Change: Continual Learning in Deep Neural Networks. (2020)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30219-9) 
 
 ## Replay Methods
+#### 2021
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [Self-Supervised Training Enhances Online Continual Learning](https://arxiv.org/pdf/2103.14010.pdf) | - | -| 
+| [Rehearsal revealed: The limits and merits of revisiting samples in continual learning](https://arxiv.org/pdf/2104.07446.pdf)| -| [Pyotch(Author)](https://github.com/Mattdl/RehearsalRevealed)| 
+
 #### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -28,6 +35,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting](https://arxiv.org/pdf/2010.01528.pdf) | - | [Author](https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons)-check later |
 | [iTAML : An Incremental Task-Agnostic Meta-learning Approach](https://arxiv.org/pdf/2003.11652.pdf) | CVPR | [Pyotch(Author)](https://github.com/brjathu/iTAML) | 
 | [Bilevel Continual Learning](https://arxiv.org/pdf/2007.15553.pdf) | - | [Pyotch(Author)](https://github.com/phquang/Bilevel-Continual-Learning) | 
+| [Continual Deep Learning by Functional Regularisation of Memorable Past](https://arxiv.org/pdf/2004.14070.pdf) |  NeurIPS | [Pyotch(Author)](https://github.com/team-approx-bayes/fromp) |
 
 
 
@@ -65,7 +73,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Linear Mode Connectivity in Multitask and Continual Learning](https://openreview.net/pdf?id=Fmg_fQYUejf) | ICLR(Under review) | [Author-check later](https://github.com/imirzadeh/MC-SGD)  | 
-
+| [Gradient Projection Memory for Continual Learning](https://openreview.net/pdf?id=3AOj0RCNC2) | ICLR | [Pytorch(Author)](https://github.com/sahagobinda/GPM)| 
+| [Unifying Regularisation Methods for Continual Learning](https://arxiv.org/pdf/2006.06357v2.pdf) | - |[Tensorflow](https://github.com/freedbee/continual_regularisation)| 
 
 #### 2020
 | Title    | Venue       | Code     |
@@ -105,7 +114,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
 | [Efficient Continual Learning with Modular Networks and Task-Driven Priors](https://arxiv.org/pdf/2012.12631.pdf) | ICLR | [Pytorch(Author)](https://github.com/TomVeniat/MNTDP)|
-
+| [Efficient Feature Transformations for Discriminative and Generative Continual Learning](https://arxiv.org/pdf/2103.13558.pdf) | CVPR |[check later(Author)](https://github.com/vkverma01/EFT)| 
 
 #### 2020 
 | Title    | Venue       | Code     |
@@ -136,6 +145,12 @@ Please feel free to pull requests or open an issue to add papers.
 | [Encoder Based Lifelong Learning](https://openaccess.thecvf.com/content_ICCV_2017/papers/Rannen_Encoder_Based_Lifelong_ICCV_2017_paper.pdf) | ICCV | [Pytorch(Author)](https://github.com/rahafaljundi/Pytorch-implementation-of-Encoder-Based-Lifelong-learning) |
 
 ## Others
+#### 2021
+| Title    | Venue       | Code     |
+|:-------|:--------:|:-------:|
+| [CLeaR: An Adaptive Continual Learning Framework for Regression Tasks](https://arxiv.org/pdf/2101.00926.pdf)| -| -|
+| [A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix](https://arxiv.org/pdf/2010.04003.pdf) | AISTATS | - |
+
 #### 2020
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
@@ -150,6 +165,11 @@ Please feel free to pull requests or open an issue to add papers.
 | [Reconciling meta-learning and continual learning with online mixtures of tasks](https://papers.nips.cc/paper/9112-reconciling-meta-learning-and-continual-learning-with-online-mixtures-of-tasks.pdf) | NeurIPS | - | 
 | [A comprehensive, application-oriented study of catastrophic forgetting in DNNs](https://arxiv.org/pdf/1905.08101.pdf) | ICLR| [Tensorflow(Author)](https://gitlab.informatik.hs-fulda.de/ML-Projects/CF_in_DNNs) |
 | [Incremental Object Learning from Contiguous Views](https://openaccess.thecvf.com/content_CVPR_2019/papers/Stojanov_Incremental_Object_Learning_From_Contiguous_Views_CVPR_2019_paper.pdf) | CVPR | [Author](https://iolfcv.github.io)|
+| [Backpropamine: training self-modifying neural networks with differentiable neuromodulated plasticity](https://arxiv.org/pdf/2002.10585.pdf) | ICLR | - | 
+
+
+
+
 #### 2017 and Before
 | Title    | Venue       | Code     |
 |:-------|:--------:|:-------:|
